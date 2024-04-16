@@ -1,0 +1,181 @@
+1	Jean Denis Yves Clément EDELIN	13.2.1955	Belleville-sur-VIe	Christine Claudine ROUSSEL	28.8.1982	Esternay			
+2	Henri Camille Émile EDELIN	19.5.1919	Paimboeuf	Gustavie Lucienne LOUINEAU			29.6.2010	La Roche-sur-Yon	91
+3	Gustavie Lucienne LOUINEAU	23.3.1919	Belleville-sur-VIe	Henri Camille Émile EDELIN			13.5.2011	La Roche-sur-Yon	92
+4	Henri Pierre Marie EDELIN	27.7.1889	Saint-Viaud	Clémentine Marie GOISLARD	23.5.1914	Corsept	15.3.1978	Paimboeuf	88
+5	Clémentine Marie GOISLARD	26.9.1888	Saint-Nazaire	Henri Pierre Marie EDELIN	23.5.1914	Corsept	8.11.1973	Paimboeuf	85
+6	Lucien Victor Gustave  LOUINEAU	16.3.1893	Belleville-sur-VIe	Marie Louise Célestine Clémentine  ESNARD	19.11.1917	Belleville-sur-VIe	20.4.1969	La Roche-sur-Yon	76
+7	Marie Louise Célestine Clémentine  ESNARD	1.10.1895		Lucien Victor Gustave  LOUINEAU	19.11.1917	Belleville-sur-VIe	20.5.1953	Belleville-sur-VIe	57
+8	Jean Marie  EDELIN	30.4.1861	Saint-Viaud	Marie  CHAUVET	27.6.1887	Saint-Viaud	28.2.1897	Saint-Viaud	35
+9	Marie  CHAUVET	23.4.1860	Saint-Viaud	Jean Marie  EDELIN	27.6.1887	Saint-Viaud	22.7.1917	Saint-Viaud	57
+10	Pierre Charles GOISLARD	26.5.1858	Saumur	• Clémentine Constance GAUBICHER • Jeanne Marie DENIGOT	• 3.4.1880 • 1.12.1894	• Nantes • Saint-Nazaire	16.1.1897	Saint-Nazaire	38
+11	Clémentine Constance GAUBICHER	25.5.1860	Nantes	Pierre Charles GOISLARD	3.4.1880	Nantes	1.10.1893	Saint-Nazaire	33
+12	Gustin Gabriel (dit "Gustave") LOUINEAU	30.10.1855	Belleville-sur-VIe	Anathalie MINAUD	11.11.1884	Belleville-sur-VIe	14.11.1929	Belleville-sur-VIe	74
+13	Anathalie MINAUD	18.5.1860	Belleville-sur-VIe	Gustin Gabriel (dit "Gustave") LOUINEAU	11.11.1884	Belleville-sur-VIe	9.12.1945	Belleville-sur-VIe	85
+14	Louis Joseph  ESNARD	19.7.1862	Château-Guibert	Célestine Florentine  ROUX	9.9.1884	La Génétouze	25.11.1943	La Roche-sur-Yon	81
+15	Célestine Florentine  ROUX	1.9.1866	Saint-Florent-des-Bois	Louis Joseph  ESNARD	9.9.1884	La Génétouze	15.4.1955	La Roche-sur-Yon	88
+16	Pierre Marie EDELIN	21.2.1819	Saint-Brevin-les-Pins	Jeanne Louise DOUSSET	29.9.1845	Saint-Viaud	18.2.1885	Paimboeuf	65
+17	Jeanne Louise DOUSSET	24.1.1826	Saint-Père-en-Retz	Pierre Marie EDELIN	29.9.1845	Saint-Viaud	> 1897		70
+18	Jean Baptiste  CHAUVET	1.3.1818	Saint-Viaud	Marie  DOLU	22.2.1859	Saint-Viaud	10.1.1889	Saint-Viaud	70
+19	Marie  DOLU	5.5.1824	Saint-Viaud	Jean Baptiste  CHAUVET	22.2.1859	Saint-Viaud	16.3.1866	Saint-Viaud	41
+20	Pierre GOISLARD	5.7.1825	Saint Lambert des Levées (Saumur)	• Clémence Marie ARTIF • Louise ROBIN	• 2.5.1848 • 12.5.1874	• Saumur • Nantes	1.5.1891	Nantes	65
+21	Clémence Marie ARTIF	24.9.1822	Saint-Clément-des-Levées	Pierre GOISLARD	2.5.1848	Saumur	21.6.1867	Nantes	44
+22	Mathurin Marie GAUBICHER	11.9.1817	Trévé	Marie PÉCOT	3.7.1843		2.10.1890	Nantes	73
+23	Marie PÉCOT	20.9.1822	Nantes	Mathurin Marie GAUBICHER	3.7.1843		10.1.1883	Nantes	60
+24	Jacques  LOUINEAU	13.2.1820	Le Poiré-sur-VIe	Marie Rose  ROBIN	18.11.1849	Belleville-sur-VIe	9.7.1871	Belleville-sur-VIe	51
+25	Marie Rose  ROBIN	12.10.1826	Dompierre-sur-Yon	Jacques  LOUINEAU	18.11.1849	Belleville-sur-VIe	25.6.1886	Belleville-sur-VIe	59
+26	Jean  MINAUD	3.5.1808	Vieillevigne	Marie Henriette  LORIEAU	20.7.1841	Dompierre-sur-Yon	5.2.1872	Saligny	63
+27	Marie Henriette  LORIEAU	8.11.1822	Chauché	Jean  MINAUD	20.7.1841	Dompierre-sur-Yon	24.5.1899	Belleville-sur-VIe	76
+28	François  ESNARD	14.4.1828	La Chaize-le-Vicomte	Rosalie  GUILLOT	9.6.1858	Château-Guibert	20.7.1865	Château-Guibert	37
+29	Rosalie  GUILLOT	27.9.1838	Le Bourg-sous-la-Roche-sur-Yon	François  ESNARD	9.6.1858	Château-Guibert	> 1884	?	45
+30	Etienne  ROUX	17.1.1834	Le Poiré-sur-VIe	Aimée Louise  DORE	26.10.1859	Le Bourg-sous-la-Roche-sur-Yon	17.2.1919	La Boissière-des-Landes	85
+31	Aimée Louise  DORE	2.4.1834	La Limouzinière la Chaize-le-Vicomte	Etienne  ROUX	26.10.1859	Le Bourg-sous-la-Roche-sur-Yon	10.10.1899	La Boissière-des-Landes	65
+32	Joseph  EDELIN	3.3.1783	Corsept	Marguerite  MOUILLÉ	7.10.1806	Saint-Brevin-les-Pins	9.11.1831	Saint-Brevin-les-Pins	48
+33	Marguerite  MOUILLÉ	11.7.1785	Saint-Brevin-les-Pins	Joseph  EDELIN	7.10.1806	Saint-Brevin-les-Pins	19.11.1828	Saint-Brevin-les-Pins	43
+34	Pierre  DOUSSET	1.8.1790	Frossay	Hélène  BANCHAUD	12.1.1814	Saint-Père-en-Retz	23.2.1866	Saint-Viaud	75
+35	Hélène  BANCHAUD	20.2.1782	Saint-Père-en-Retz	Pierre  DOUSSET	12.1.1814	Saint-Père-en-Retz	17.8.1858	Saint-Viaud	76
+36	Jean Baptiste CHAUVET	16.2.1782	Frossay	Françoise  LERAY	2.2.1816	Saint-Viaud	5.12.1858	Saint-Viaud	76
+37	Françoise  LERAY	3.10.1786	Saint-Viaud	Jean Baptiste CHAUVET	2.2.1816	Saint-Viaud	22.3.1864	Saint-Viaud	77
+38	Jean  DOLU	20.3.1784	Saint-Viaud	Anne Françoise COUREAU	18.12.1813	Saint-Viaud	20.11.1841	Saint-Viaud	57
+39	Anne Françoise COUREAU	20.12.1781	Saint-Viaud	Jean  DOLU	18.12.1813	Saint-Viaud	31.3.1863	Saint-Viaud	81
+40	René François GOISLARD	11.9.1786	Saint Lambert des Levées (Saumur)	Amelie Victoire ROLAND	6.7.1813	Saint Lambert des Levées (Saumur)	> 1848		61
+41	Amelie Victoire ROLAND	2.12.1791	Saumur	René François GOISLARD	6.7.1813	Saint Lambert des Levées (Saumur)	> 1848		56
+42	Louis ARTIF	28.7.1791	Saint-Clément-des-Levées	Marie Madeleine PAPIN	18.9.1811	Saint-Clément-des-Levées	19.3.1833	Saint-Clément-des-Levées	41
+43	Marie Madeleine PAPIN	19.9.1785	Le Lude	Louis ARTIF	18.9.1811	Saint-Clément-des-Levées	3.3.1848	Saumur	62
+44	Jean François GAUBICHER	6.10.1776	Trévé	Marie Louise LE FORESTIER	20.5.1800	Saint-Caradec	11.10.1864	Nantes	88
+45	Marie Louise LE FORESTIER	12.3.1777	Saint-Guen	Jean François GAUBICHER	20.5.1800	Saint-Caradec	9.4.1845	Trévé	68
+46	Barthélémy PÉCOT	25.5.1795	Nantes	Marie VALOIS	8.7.1822	Nantes	29.4.1830	Nantes	34
+47	Marie VALOIS	20.5.1800	Nantes	Barthélémy PÉCOT	8.7.1822	Nantes	10.9.1854	Nantes	54
+48	Jacques LOUINEAU	15.10.1797	Le Poiré-sur-VIe	Marie Anne  PHILIPPEAU	17.2.1819	Le Poiré-sur-VIe	29.7.1864	Belleville-sur-VIe	66
+49	Marie Anne  PHILIPPEAU	2.4.1797	Le Poiré-sur-VIe	Jacques LOUINEAU	17.2.1819	Le Poiré-sur-VIe	10.11.1869	Belleville-sur-VIe	72
+50	Pierre  ROBIN	16.7.1786	Dompierre-sur-Yon	Jacquette Florine Marie GOUIN	20.6.1814	Dompierre-sur-Yon		?	
+51	Jacquette Florine Marie GOUIN	17.5.1799	Dompierre-sur-Yon	Pierre  ROBIN	20.6.1814	Dompierre-sur-Yon	22.2.1849	Dompierre-sur-Yon	49
+52	Pierre  MINAUD	21.12.1783	Vieillevigne	• Marie CHATELIER • Jeanne  GANACHAUD	• 25.7.1807 • 26.8.1816	• Vieillevigne • Vieillevigne		?	
+53	Marie CHATELIER	28.11.1781	Saint-Hilaire-de-Loulay	Pierre  MINAUD	25.7.1807	Vieillevigne	6.1.1816	Vieillevigne	34
+54	Pierre  LORIEAU	~ 1791	Chauché	• Jeanne  GIRARDEAU • Marie Anne Soeur2 GAUTRON	• 19.7.1811 • 10.6.1813	• Chauché • Chauché	29.4.1857	Dompierre-sur-Yon	66
+55	Marie Anne Soeur2 GAUTRON	27.10.1788	Chauché	• Pierre  BLANCHARD • Pierre  LORIEAU	• 1.5.1811 • 10.6.1813	• Chauché • Chauché	17.11.1853	Dompierre-sur-Yon	65
+56	Pierre  ESNARD	3.4.1788	La Limouzinière la Chaize-le-Vicomte	Marie Anne  MARTINEAU	20.12.1809	Thorigny	13.10.1863	Thorigny	75
+57	Marie Anne  MARTINEAU	27.10.1789	Thorigny	Pierre  ESNARD	20.12.1809	Thorigny	25.4.1833	Thorigny	43
+58	Joseph  GUILLOT	23.9.1812	Saint-Florent-des-Bois	Jeanne  MASSIAU	26.1.1836	Le Bourg-sous-la-Roche-sur-Yon	7.8.1856	Château-Guibert	43
+59	Jeanne  MASSIAU	1.2.1811	La Ferrière	Joseph  GUILLOT	26.1.1836	Le Bourg-sous-la-Roche-sur-Yon	17.8.1883	La Génétouze	72
+60	Etienne N1792  ROUX	12.2.1792	Le Poiré-sur-VIe	• Marie  GRATON • Marie Louise  VIOLLEAU	• 14.4.1813 • 16.1.1825	• Le Poiré-sur-VIe • Le Poiré-sur-VIe	3.4.1866	Saint-Florent-des-Bois	74
+61	Marie Louise  VIOLLEAU	22.1.1803	Le Poiré-sur-VIe	Etienne N1792  ROUX	16.1.1825	Le Poiré-sur-VIe	> 1866		62
+62	Romain Louis DORE	28.11.1802	Saint-Colomban	Jeanne Rose MOIZEAU	10.2.1830	Le Bourg-sous-la-Roche-sur-Yon	30.6.1857	Le Bourg-sous-la-Roche-sur-Yon	54
+63	Jeanne Rose MOIZEAU	23.8.1807	Aizenay	Romain Louis DORE	10.2.1830	Le Bourg-sous-la-Roche-sur-Yon	4.8.1875	La Ferrière	67
+64	Joseph EDELIN	3.8.1749	Le Clion-sur-Mer	Jeanne  CHARIER	25.11.1777	Corsept	14.9.1823	Le Clion-sur-Mer	74
+65	Jeanne  CHARIER	11.12.1754	La Lande - Saint-Brevin-les-Pins	Joseph EDELIN	25.11.1777	Corsept	2.12.1818	Le Clion-sur-Mer	63
+66	Antoine  MOUILLÉ		?	Jeanne MARTIN	21.9.1773	Saint-Brevin-les-Pins	> 7.10.1806	?	
+67	Jeanne MARTIN	~ 1744	?	Antoine  MOUILLÉ	21.9.1773	Saint-Brevin-les-Pins	12.10.1816	Saint-Brevin-les-Pins	72
+68	Mathurin  DOUSSET	20.2.1758	Frossay	• Anne  PERRODEAU • Anne Françoise  MORICE	• 18.1.1785 • 27.1.1789	• Frossay • Frossay	30.4.1794	Frossay	36
+69	Anne Françoise  MORICE	17.5.1767	Saint-Viaud	Mathurin  DOUSSET	27.1.1789	Frossay	8.9.1849	Saint-Viaud	82
+70	Pierre  BANCHAUD	17.1.1743	Le Clion-sur-Mer	Marie Jeanne DEBEC	23.11.1773	Ste Opportune en Retz	12.4.1826	Saint-Père-en-Retz	83
+71	Marie Jeanne DEBEC	10.7.1750	Le Clion-sur-Mer	Pierre  BANCHAUD	23.11.1773	Ste Opportune en Retz	3.12.1813	Saint-Père-en-Retz	63
+72	Jean CHAUVET	1740		Élisabeth BOURIAU	4.2.1777	Frossay	5.11.1785	Frossay	45
+73	Élisabeth BOURIAU	22.12.1752	Saint-Viaud	Jean CHAUVET	4.2.1777	Frossay	> 1786		33
+74	François LERAY	~ 1755		Charlotte DOUSSET	25.7.1775	Saint-Viaud	26.12.1804		49
+75	Charlotte DOUSSET	1755		François LERAY	25.7.1775	Saint-Viaud			
+76	Mathieu DOLU	15.9.1756	Saint-Viaud	Jeanne  FOUCHER	21.11.1780	Saint-Viaud	17.3.1826	Saint-Viaud	69
+77	Jeanne  FOUCHER	3.2.1757	Saint-Viaud	Mathieu DOLU	21.11.1780	Saint-Viaud	21.9.1828	Saint-Viaud	71
+78	Jean COUREAU	2.1.1743	Saint-Viaud	• Françoise  BOURIAU • Marie  DURAND	• 21.11.1775 • 17.11.1778	• Saint-Viaud • Saint-Viaud	8.10.1827	Saint-Viaud	84
+79	Marie  DURAND	3.10.1754	Ste Opportune en Retz	Jean COUREAU	17.11.1778	Saint-Viaud	17.4.1807	Saint-Viaud	52
+80	François GOISLARD	27.2.1754	Saint Lambert des Levées (Saumur)	Renée AUBIN	10.1.1786	Saint Lambert des Levées (Saumur)	19.2.1813	Saint Lambert des Levées (Saumur)	58
+81	Renée AUBIN	> 1744	Saint Lambert des Levées (Saumur)	• Jean VOCELLE • François GOISLARD	• 8.11.1774 • 10.1.1786	• Saint Lambert des Levées (Saumur) • Saint Lambert des Levées (Saumur)	18.12.1790		46
+82	Lambert ROLAND			Marie PIED NOIR			3.2.1795		
+83	Marie PIED NOIR			Lambert ROLAND			15.3.1796		
+84	Louis ARTIF	1752	Saint-Clément-des-Levées	Gabrièle POUPARD	27.6.1786	Longué-Jumelles	16.11.1812	Saint-Clément-des-Levées	60
+85	Gabrièle POUPARD	1763		Louis ARTIF	27.6.1786	Longué-Jumelles	15.3.1833	Saint-Martin-de-la-Place	70
+86	Mathurin PAPIN			Catherine OLLIVIER			29.12.1794		
+87	Catherine OLLIVIER			Mathurin PAPIN					
+88	Mathurin GAUBICHER	9.8.1746	Trévé	Marie Rose LE MAITRE	3.2.1767	Trévé	20.1.1806	Trévé	59
+89	Marie Rose LE MAITRE	4.4.1747	Trévé	Mathurin GAUBICHER	3.2.1767	Trévé	3.3.1825	Trévé	77
+90	Julien LE FORESTIER	21.1.1738	Mûr-de-Bretagne	• Jeanne LE SAINT • Anne NÉVO • Anne "Jeanne" AUDREIN	• 10.6.1760 • 9.6.1762 • 25.5.1772	• Saint-Connec • Saint-Caradec • Saint-Guen			
+91	Anne "Jeanne" AUDREIN	10.12.1746	Saint-Caradec	Julien LE FORESTIER	25.5.1772	Saint-Guen			
+92	Jean Baptiste PÉCOT	1.3.1768	Auxonne	Jeanne PERROTIN	14.9.1794	Nantes	26.12.1798	Nantes	30
+93	Jeanne PERROTIN	7.2.1773	Tours	• Jean Baptiste PÉCOT • Jean Baptiste TOUCHERONDE	• 14.9.1794 • 23.11.1808	• Nantes • Nantes	13.12.1858	Nantes	85
+94	Victor Francois VALOIS	15.10.1763	Château-Renault	Françoise Marie BOURDON	5.2.1788	Nantes	28.1.1820	Nantes	56
+95	Françoise Marie BOURDON	18.2.1770	Nantes	Victor Francois VALOIS	5.2.1788	Nantes	1813	Nantes	42
+96	Pierre LOUINEAU	27.5.1758	Belleville-sur-VIe	• Henriette Jeanne  CLERGEAU • Marie Madelaine ROUSSEAU • Anne Jacquette GRELET	• 1.7.1783 • 10.10.1815 • 19.8.1818	• Belleville-sur-VIe • Le Poiré-sur-VIe • Les Lucs-sur-Boulogne	10.9.1827	Le Poiré-sur-VIe	69
+97	Marie Madelaine ROUSSEAU	22.6.1769	Corbaon- Chateau-Guibert	• Jacques André TROGER • Pierre LOUINEAU	• 1791 • 10.10.1815	•  • Le Poiré-sur-VIe	22.11.1815	Le Poiré-sur-VIe	46
+98	Louis  PHILIPPEAU	19.10.1757	Le Poiré-sur-VIe	Marie Jeanne MASSÉ	30.1.1787	Le Poiré-sur-VIe	2.12.1820	Saligny	63
+99	Marie Jeanne MASSÉ	2.1.1764	Saint-Paul-Mont-Penit	Louis  PHILIPPEAU	30.1.1787	Le Poiré-sur-VIe	3.7.1831	Saligny	67
+100	Jacques  ROBIN	7.9.1750	La Ferrière	Marie ARDOUIN	9.2.1779	Saligny	5.3.1795	Dompierre-sur-Yon	44
+101	Marie ARDOUIN	20.1.1756	Saligny	Jacques  ROBIN	9.2.1779	Saligny	1793	Dompierre-sur-Yon	36
+102	Jacques  GOUIN	1731	Dompierre-sur-Yon	Marie Jacquette Françoise  BOUTOLLEAU	1792		15.9.1802	Dompierre-sur-Yon	71
+103	Marie Jacquette Françoise  BOUTOLLEAU	24.10.1758	L'Airière la Ferrière	Jacques  GOUIN	1792		22.1.1810	Dompierre-sur-Yon	51
+104	Jean Senior  MINAUD		?	Marie  BOSSIS	14.11.1769	Vieillevigne	21.10.1794	Vieillevigne	
+105	Marie  BOSSIS	6.5.1737	Vieillevigne	Jean Senior  MINAUD	14.11.1769	Vieillevigne	24.11.1808	Vieillevigne	71
+106	Mathurin  CHATELIER	10.7.1737	Boussay	Marie  MERLET	16.2.1773	Saint-Hilaire-de-Loulay	28.7.1794	Saint-Hilaire-de-Loulay	57
+107	Marie  MERLET	18.11.1755	Saint-Hilaire-de-Loulay	Mathurin  CHATELIER	16.2.1773	Saint-Hilaire-de-Loulay	22.4.1796	La Guyonnière	40
+108	Jean  LORIEAU	20.10.1748	Chauché	Marie Jeanne MAINDRON	4.7.1785	Chauché	5.5.1807	Chauché	58
+109	Marie Jeanne MAINDRON	14.12.1764	Saint-Fulgent	Jean  LORIEAU	4.7.1785	Chauché	> 1821	?	56
+110	Jacques  GAUTRON	10.6.1761	Les Essarts	Marie  RAUTURIER	29.1.1788	Chauché	17.8.1809	Boulogne	48
+111	Marie  RAUTURIER	22.9.1751	Boulogne	Jacques  GAUTRON	29.1.1788	Chauché	25.12.1830	Boulogne	79
+112	Jacques  ESNARD	6.12.1749	Saint-Florent-des-Bois	Jeanne  BILLAUD	23.1.1770	La Limouzinière la Chaize-le-Vicomte	19.1.1820	La Limouzinière la Chaize-le-Vicomte	70
+113	Jeanne  BILLAUD	31.10.1751	La Limouzinière la Chaize-le-Vicomte	Jacques  ESNARD	23.1.1770	La Limouzinière la Chaize-le-Vicomte	13.8.1834	La Chaize-le-Vicomte	82
+114	Gabriel  MARTINEAU	2.12.1746	Rosnay	Marie Anne  VIGNERON	9.2.1773	Saint-Florent-des-Bois	1796	Thorigny	49
+115	Marie Anne  VIGNERON	18.8.1755	Saint-Florent-des-Bois	Gabriel  MARTINEAU	9.2.1773	Saint-Florent-des-Bois	11.9.1825	La Chaize-le-Vicomte	70
+116	Pierre GUILLOT	28.8.1772	Le Bourg-sous-la-Roche-sur-Yon	Marie Anne SEGUIN	21.11.1799	Le Tablier	4.5.1841	Mareuil-sur-Lay-Dissais	68
+117	Marie Anne SEGUIN	4.11.1774	Le Tablier	Pierre GUILLOT	21.11.1799	Le Tablier	9.3.1840	Mareuil-sur-Lay-Dissais	65
+118	Jacques  MASSIAU	16.7.1775	Dompierre-sur-Yon	Marie Anne  FEVRE	9.1.1810	La Ferrière		?	
+119	Marie Anne  FEVRE	26.6.1786	Dompierre-sur-Yon	Jacques  MASSIAU	9.1.1810	La Ferrière	6.3.1827	Le Bourg-sous-la-Roche-sur-Yon	40
+120	Mathurin Etienne ROUX	6.12.1754	Le Poiré-sur-VIe	Jeanne  DAVISSEAU	5.2.1782	Le Poiré-sur-VIe	1.10.1831	Le Poiré-sur-VIe	76
+121	Jeanne  DAVISSEAU	14.11.1761	Saligny	Mathurin Etienne ROUX	5.2.1782	Le Poiré-sur-VIe	23.12.1833	Le Poiré-sur-VIe	72
+122	Louis  VIOLLEAU	6.9.1768	Le Poiré-sur-VIe	Louise  GROLLIER	31.5.1796	Le Poiré-sur-VIe	13.4.1842	Le Poiré-sur-VIe	73
+123	Louise  GROLLIER	29.7.1765	Le Poiré-sur-VIe	Louis  VIOLLEAU	31.5.1796	Le Poiré-sur-VIe	19.11.1825	La Génétouze	60
+124	Pierre  DORE	~ 1771		Anne BLINEAU		?	21.11.1848	Le Bourg-sous-la-Roche-sur-Yon	77
+125	Anne BLINEAU	16.10.1773	La Chevrolière	Pierre  DORE		?	8.4.1850	Le Bourg-sous-la-Roche-sur-Yon	76
+126	François  MOIZEAU	4.4.1774	Aizenay	Louise  DURAND	6.2.1798	Aizenay	12.9.1858	Le Bourg-sous-la-Roche-sur-Yon	84
+127	Louise  DURAND	8.12.1775	La Génétouze	François  MOIZEAU	6.2.1798	Aizenay	6.7.1846	Le Bourg-sous-la-Roche-sur-Yon	70
+128	Joseph EDELIN	22.4.1713	Le Clion-sur-Mer	Marie MARIOT	25.1.1735	Pornic	< 1777		63
+129	Marie MARIOT	18.4.1716	Le Clion-sur-Mer	Joseph EDELIN	25.1.1735	Pornic			
+130	Pierre CHARIER			Jeanne BOISMAIN					
+131	Jeanne BOISMAIN			Pierre CHARIER					
+132	Antoine MOUILLÉ	1722		Marie RENAUD	8.5.1742	Saint-Brevin-les-Pins	22.12.1782	Corsept	60
+133	Marie RENAUD	~ 1722		Antoine MOUILLÉ	8.5.1742	Saint-Brevin-les-Pins			
+134	Cyre MARTIN	~ 1709		Marie RENAUD	20.1.1729	Saint-Brevin-les-Pins			
+135	Marie RENAUD	~ 1709		Cyre MARTIN	20.1.1729	Saint-Brevin-les-Pins			
+136	Mathurin DOUSSET			Françoise RIVAUD					
+137	Françoise RIVAUD			Mathurin DOUSSET					
+138	Julien MORICE			Anne MICHAUD					
+139	Anne MICHAUD			Julien MORICE					
+152	Philippe DOLU			Marie PROU					
+153	Marie PROU			Philippe DOLU					
+162	Charles AUBIN			Renée DAVERNIER	4.8.1744	Beaufort-en-Vallée			
+163	Renée DAVERNIER			Charles AUBIN	4.8.1744	Beaufort-en-Vallée			
+176	Francois GAUBICHER	1716	Trévé	• Françoise NELO • Suzanne FRABOULET • Suzanne_2eme FRABOULET	• 17.2.1738 • 24.2.1743 • 23.7.1771	• Trévé • Saint-Caradec • Saint-Caradec	24.4.1773	Trévé	57
+177	Suzanne FRABOULET	13.12.1715	Saint-Caradec	Francois GAUBICHER	24.2.1743	Saint-Caradec	3.11.1770	Trévé	54
+178	Julien LE MAITRE	30.4.1705	Plémet	Hélène DES BOIS					
+179	Hélène DES BOIS			Julien LE MAITRE					
+180	Yves LE FORESTIER	23.3.1709	Trévé	Françoise COJAN	23.1.1726	Mûr-de-Bretagne	29.6.1766	Mûr-de-Bretagne	57
+181	Françoise COJAN	9.9.1705	Mûr-de-Bretagne	Yves LE FORESTIER	23.1.1726	Mûr-de-Bretagne	5.5.1782	Mûr-de-Bretagne	76
+182	Yves AUDREIN			Anne JÉGARD	22.7.1743	Saint-Caradec			
+183	Anne JÉGARD			Yves AUDREIN	22.7.1743	Saint-Caradec			
+184	Jacques PÉCOT			Anne BERTELET					
+185	Anne BERTELET			Jacques PÉCOT					
+186	Jean PERROTIN	10.3.1722	Sainte-Maure-de-Touraine	Marie DALBIN	22.4.1765	Tours			
+187	Marie DALBIN	22.10.1727	Montlouis-sur-Loire	Jean PERROTIN	22.4.1765	Tours			
+188	Victor Jean François VALOIS			Catherine FROMY					
+189	Catherine FROMY			Victor Jean François VALOIS					
+190	François BOURDON	15.4.1732	Vitré	Marie GERNOU	24.2.1759	Nantes			
+191	Marie GERNOU	16.3.1737	Blain	François BOURDON	24.2.1759	Nantes	17.4.1794	Nantes	57
+192	Pierre LOUINEAU	1723		• Jeanne JUTARD • Anne Louise BONAMY • Louise BEZIEAU	• 29.1.1754 • 14.10.1772 • 14.2.1775	• Belleville-sur-VIe • Le Poiré-sur-VIe • Dompierre-sur-Yon	2.5.1785	Le Poiré-sur-VIe	62
+193	Jeanne JUTARD	> 30.1.1729	Dompierre-sur-Yon	Pierre LOUINEAU	29.1.1754	Belleville-sur-VIe	22.11.1761	Belleville-sur-VIe	32
+194	Jean ROUSSEAU	1718		• Françoise PATUREAU • Marie ROGER	• 27.11.1749 • 5.7.1768	• Venansault • Corbaon- Chateau-Guibert	20.5.1782	Saint-Florent-des-Bois	64
+195	Marie ROGER	18.11.1731	Bellenoue-Chateau-Guibert	Jean ROUSSEAU	5.7.1768	Corbaon- Chateau-Guibert	10.7.1788	Saint-Florent-des-Bois	56
+196	Jacques PHILIPPEAU			Margueritte SALOMON					
+197	Margueritte SALOMON			Jacques PHILIPPEAU					
+198	Pierre MASSÉ			Jeanne CALLES					
+199	Jeanne CALLES			Pierre MASSÉ					
+212	Pierre CHATELIER	1698		Perrine BARAUD			1768		70
+213	Perrine BARAUD			Pierre CHATELIER			1749	Boussay	
+224	Jacques ESNARD			Jeanne TEXIER					
+225	Jeanne TEXIER			Jacques ESNARD					
+256	Jean EDELIN	9.1.1686	Le Clion-sur-Mer	Jeanne DUBREIL	22.8.1711	Le Clion-sur-Mer	8.10.1747	Le Clion-sur-Mer	61
+257	Jeanne DUBREIL	14.10.1682	Rouans	Jean EDELIN	22.8.1711	Le Clion-sur-Mer	> 1747		64
+258	Laurent MARIOT	1692		Marguerite GROSSIN	8.1.1715	Saint-Michel-Chef-Chef			
+259	Marguerite GROSSIN	13.5.1690	Saint-Michel-Chef-Chef	Laurent MARIOT	8.1.1715	Saint-Michel-Chef-Chef			
+264	Antoine MOUILLÉ	~ 1690		Margueritte CORBIN	4.6.1710	Saint-Brevin-les-Pins	11.10.1742	Saint-Père-en-Retz	52
+265	Margueritte CORBIN	~ 1690		Antoine MOUILLÉ	4.6.1710	Saint-Brevin-les-Pins	11.10.1742	Saint-Père-en-Retz	52
+354	Grégoire FRABOULET			Mathurine KERIFURIC	27.2.1710	Saint-Caradec			
+355	Mathurine KERIFURIC			Grégoire FRABOULET	27.2.1710	Saint-Caradec			
+512	Jan EDELIN	1.12.1643	Le Clion-sur-Mer	Anne LEHOURS	13.8.1680	Le Clion-sur-Mer			
+513	Anne LEHOURS	10.4.1655	Le Clion-sur-Mer	Jan EDELIN	13.8.1680	Le Clion-sur-Mer	23.5.1688	Le Clion-sur-Mer	33
